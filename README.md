@@ -8,14 +8,18 @@ Canvas is an online learning platform used by many schools in conjunction with t
 This script sorts each assignment into a folder with a student_name and renames the files back to the original.
 
 # Use
-Step 1) Extract all the files from the zip folder you recieved from canvas into a folder
+Step 1) Extract all the files from the zip folder you recieved from canvas into a folder (unzip)
 
-Step 2) Copy "sub_name.awk" and "submission_sort.sh" into the folder with the canvas assignments
+Step 2) Copy "sub_name.awk" and "submission_sort.sh" into the folder with the canvas assignments (e.g. the "cp" command)
 
-Step 3) From a Bash Shell type in "./submission_sort.sh"
+Step 3) From a Bash Shell change to the directory that the scripts & assignments are in (e.g. the "cd" command)
+
+Step 4) Type in "./submission_sort.sh"
 
 Step 4) Have fun grading!
 
+#Tips
+This script works with cygwin on windows and Bash natively on Linux. If you aren't sure what those are you might need to do a web search and read up on it to use this script.
 
 
 # Issues
