@@ -18,8 +18,9 @@ Step 4) Type in "./submission_sort.sh"
 
 Step 5) Have fun grading!
 
-#Tips
-This script works with cygwin on windows and Bash natively on Linux. If you aren't sure what those are you might need to do a web search and read up on it to use this script.
 
 
 # Issues
+
+#Tips
+This script works with cygwin on windows and Bash natively on Linux. If you aren't sure what those are you might need to do a web search and read up on it to use this script.
