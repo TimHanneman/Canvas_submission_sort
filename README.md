@@ -22,5 +22,7 @@ Step 5) Have fun grading!
 
 # Issues
 
-#Tips
+If the student uses "-" in their filename, the script will not rename the files as expected.
+
+# Tips
 This script works with cygwin on windows and Bash natively on Linux. If you aren't sure what those are you might need to do a web search and read up on it to use this script.
